@@ -1,0 +1,3 @@
+[deps]
+Pyrite = "ef9baba9-c4fd-48be-8f9b-6e14a906ba37"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
