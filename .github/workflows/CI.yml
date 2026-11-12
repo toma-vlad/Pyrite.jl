@@ -14,7 +14,7 @@ permissions:
 jobs:
   test:
     runs-on: ${{ matrix.os }}
-    strategy: 
+    strategy:
       fail-fast: false
       matrix:
         julia-version: ['1.12', '1']
